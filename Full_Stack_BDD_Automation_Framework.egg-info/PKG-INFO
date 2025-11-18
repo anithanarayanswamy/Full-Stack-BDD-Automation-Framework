@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Full-Stack-BDD-Automation-Framework
+Version: 0.1.0
+Summary: Full stack BDD Automation Framework
+Requires-Dist: behave
+Requires-Dist: playwright
+Requires-Dist: pytest-playwright
+Requires-Dist: pytest
+Requires-Dist: python-dotenv
+Dynamic: requires-dist
+Dynamic: summary
